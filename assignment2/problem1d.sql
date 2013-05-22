@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM (SELECT * FROM frequency WHERE term = "parliament");
